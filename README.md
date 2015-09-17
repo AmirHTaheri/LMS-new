@@ -1,0 +1,2 @@
+# LMS-new
+The purpose of this project is to develop and implement a learning management system which simplifies posturing online contents in order to train, learn, monitor, record and track the progress of the individuals and processes in an organization. Learning Management System, hereafter LMS is often associated with student portals that manage data delivery schedules, group divisions and their related materials and a repository for gathering information needed for stakeholders.
